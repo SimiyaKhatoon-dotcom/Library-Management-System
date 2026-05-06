@@ -22,7 +22,3 @@ This is a simple console-based Library Management System developed using Python.
 3. Run the program:
    python main.py
 
-## Authors
-- Simiya Khatoon
-- Shristi Kumari
-- Chetan Singh
